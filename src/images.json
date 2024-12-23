@@ -1,0 +1,27 @@
+[
+    { "category": "Nature", "src": "https://images.pexels.com/photos/29779695/pexels-photo-29779695/free-photo-of-serene-black-and-white-lake-scene-with-birds.jpeg?auto=compress&cs=tinysrgb&w=400" },
+    { "category": "Nature", "src": "https://images.pexels.com/photos/29731128/pexels-photo-29731128/free-photo-of-indian-palm-squirrel-foraging-in-mumbai-park.jpeg?auto=compress&cs=tinysrgb&w=400" },
+    { "category": "Nature", "src": "https://images.pexels.com/photos/29736009/pexels-photo-29736009/free-photo-of-vibrant-red-poppies-in-bloom-in-new-delhi-garden.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" },
+    { "category": "Nature", "src": "https://images.pexels.com/photos/693776/pexels-photo-693776.jpeg?auto=compress&cs=tinysrgb&w=400" },
+    { "category": "Nature", "src": "https://images.pexels.com/photos/962464/pexels-photo-962464.jpeg?auto=compress&cs=tinysrgb&w=400" },
+    { "category": "Nature", "src": "https://images.pexels.com/photos/1583571/pexels-photo-1583571.jpeg?auto=compress&cs=tinysrgb&w=400" },
+    { "category": "Nature", "src": "https://images.pexels.com/photos/64221/flower-sunflower-karnataka-india-64221.jpeg?auto=compress&cs=tinysrgb&w=400" },
+    { "category": "Nature", "src": "https://images.pexels.com/photos/2616865/pexels-photo-2616865.jpeg?auto=compress&cs=tinysrgb&w=400" },
+    { "category": "Nature", "src": "https://images.pexels.com/photos/3401967/pexels-photo-3401967.jpeg?auto=compress&cs=tinysrgb&w=400" },
+    { "category": "Nature", "src": "https://images.pexels.com/photos/4038084/pexels-photo-4038084.jpeg?auto=compress&cs=tinysrgb&w=400" },
+    { "category": "Nature", "src": "https://images.pexels.com/photos/1659438/pexels-photo-1659438.jpeg?auto=compress&cs=tinysrgb&w=400" },
+    { "category": "Nature", "src": "https://images.pexels.com/photos/2325447/pexels-photo-2325447.jpeg?auto=compress&cs=tinysrgb&w=400" },
+    { "category": "City", "src": "https://images.pexels.com/photos/904272/pexels-photo-904272.jpeg?auto=compress&cs=tinysrgb&w=400" },
+    { "category": "City", "src": "https://images.pexels.com/photos/160087/pexels-photo-160087.jpeg?auto=compress&cs=tinysrgb&w=400" },
+    { "category": "City", "src": "https://images.pexels.com/photos/2257894/pexels-photo-2257894.jpeg?auto=compress&cs=tinysrgb&w=400" },
+    { "category": "City", "src": "https://images.pexels.com/photos/2259636/pexels-photo-2259636.jpeg?auto=compress&cs=tinysrgb&w=400" },
+    { "category": "City", "src": "https://images.pexels.com/photos/2887207/pexels-photo-2887207.jpeg?auto=compress&cs=tinysrgb&w=400" },
+    { "category": "City", "src": "https://images.pexels.com/photos/2382889/pexels-photo-2382889.jpeg?auto=compress&cs=tinysrgb&w=400" },
+    { "category": "City", "src": "https://images.pexels.com/photos/1542620/pexels-photo-1542620.jpeg?auto=compress&cs=tinysrgb&w=400" },
+    { "category": "City", "src": "https://images.pexels.com/photos/1853064/pexels-photo-1853064.jpeg?auto=compress&cs=tinysrgb&w=400" },
+    { "category": "Food", "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpfhi0_tMWHe5U9bFZlTr4TVeBOZHhu_DVew&s" },
+    { "category": "Food", "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfzGTIIkhNNhM12zKSGZcUaFMTEwWwMtuZDQ&s" },
+    { "category": "Food", "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpGzdAAVk-hWr2xJ70eurv8eNVNJkKb23nfg&s" },
+    { "category": "Food", "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStxYUb82L3RX5dgbZ_sPnFJGziaA3O3nqMQw&s" }
+  ]
+  
